@@ -1,5 +1,5 @@
 {
-  "name": "help-tools",
+  "name": "htvenom",
   "version": "1.0.0",
   "description": "```bash\r npm install https://github.com/venomancer-p1/htvenom.git\r ```",
   "main": "index.js",
@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/venomancer-p1/help-tools.git"
+    "url": "git+https://github.com/venomancer-p1/htvenom.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/venomancer-p1/help-tools/issues"
+    "url": "https://github.com/venomancer-p1/htvenom/issues"
   },
-  "homepage": "https://github.com/venomancer-p1/help-tools#readme"
+  "homepage": "https://github.com/venomancer-p1/htvenom#readme"
 }
