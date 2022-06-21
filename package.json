@@ -7,7 +7,6 @@
     "delay": "^5.0.0",
     "err-code": "^2.0.3",
     "lodash": "^4.17.21",
-    "p-timeout": "^5.1.0",
     "promise-retry": "^2.0.1",
     "retry": "^0.12.0"
   },
