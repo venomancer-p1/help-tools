@@ -1,5 +1,5 @@
 var promiseRetry = require('promise-retry');
-const pTimeout = require('p-timeout');
+const pTimeout = require('./p-timeout');
 const delay = require('delay');
 
 /**
